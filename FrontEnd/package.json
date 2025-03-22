@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Web ban khoa hoc Online",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "HaSunFlower",
+  "license": "ISC",
+  "dependencies": {
+    "demo-web": "file:",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "frontend": "file:"
+  }
+}
